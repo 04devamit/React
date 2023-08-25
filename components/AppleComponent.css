@@ -1,0 +1,12 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: auto;
+
+}
+section img{
+    width: 50px;
+}
+

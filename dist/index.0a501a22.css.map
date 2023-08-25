@@ -1,0 +1,1 @@
+{"mappings":"AACA;;;;;;;AAOA","sources":["components/AppleComponent.css"],"sourcesContent":["\r\n.container{\r\n    display: flex;\r\n    justify-content: space-between;\r\n    max-width: 1000px;\r\n    margin: auto;\r\n\r\n}\r\nsection img{\r\n    width: 50px;\r\n}\r\n\r\n"],"names":[],"version":3,"file":"index.0a501a22.css.map","sourceRoot":"/__parcel_source_root/"}

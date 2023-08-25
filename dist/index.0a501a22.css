@@ -1,0 +1,12 @@
+.container {
+  justify-content: space-between;
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+}
+
+section img {
+  width: 50px;
+}
+
+/*# sourceMappingURL=index.0a501a22.css.map */
